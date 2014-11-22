@@ -10,7 +10,7 @@ body {
 
 }
 
-header, .info, .menu, .about, footer {
+header, #info, #menu, #about, footer {
     padding: 1em;
 }
 
@@ -38,6 +38,8 @@ h2, h3 {
 
 h2 {
     font-size: 150%;
+    margin-bottom: 0;
+
 }
 
 h3 {
